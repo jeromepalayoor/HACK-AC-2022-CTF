@@ -2,7 +2,8 @@ Title: XSS
 
 Decription:
 ```
-I really hate script kiddies... There was one guy recently going around talking about his new website. All he did was copy my website!!! >:(
+I really hate script kiddies... There was one guy recently going around talking about his new website. 
+All he did was copy my website!!! >:(
 
 Now all he does all day is look at the new posts people send him... 
 He even announced that he uses a password autofill manager to make sure no one steals his creds and views his own post.
