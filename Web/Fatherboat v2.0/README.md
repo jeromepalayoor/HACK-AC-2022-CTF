@@ -10,6 +10,8 @@ Mirror: http://beta.8059blank.ml:4005
 Author: Lucas
 ```
 
+Given hint: Once you've identified the issue in the server configuration, find out how the target page works!
+
 Given files: fatherboat.zip
 
 Just refer to https://hackmd.io/@samuzora/S18qUdQNs
