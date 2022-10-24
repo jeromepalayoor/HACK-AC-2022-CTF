@@ -29,7 +29,7 @@ To summarise the vulnerability:
 ```
 hash("sha1", $password) == hash("sha1", $_GET["pass"])
 ```
-in the code is exploitable as hash("sha1", $password) is read as 0-something because the hash starts with 00e. Therefore, we can use another unhashed text, that gives a hash that starts with '0e', and '==' is used instead of the more secure '==='.
+in the code is exploitable as hash("sha1", $password) is treated as float because the hash starts with 0e and not as a hash. Therefore, we can use another unhashed text, that gives a hash that starts with '0e', and '==' is used instead of the more secure '==='.
 ![image](https://user-images.githubusercontent.com/63996033/197445942-583bee02-4806-4be7-83df-6b17de387e63.png)
 
 After researching for a while, I found this list of possible texts and its hashes that will work.
