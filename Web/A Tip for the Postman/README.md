@@ -1,8 +1,7 @@
 Title: A Tip for the Postman
 
-```
 Description:
-
+```
 Did you know that there are 8 HTTP request methods?
 
 One is superior.
