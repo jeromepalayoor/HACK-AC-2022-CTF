@@ -23,7 +23,7 @@ After downloading the file, I immediately checked for any possible strings I cou
 
 Nope. That's the flag for part 2. Some hints suggest that the website is pastebin.com. Let's try that. 
 
-![image](https://user-images.githubusercontent.com/63996033/199074977-57340744-b93a-4a34-ac51-c3fcb394e054.png)
+![image](https://user-images.githubusercontent.com/63996033/199075579-f56cb72f-7921-4083-aaa9-e4cd8583f775.png)
 ![image](https://user-images.githubusercontent.com/63996033/199074999-9a9b091b-ab43-48c7-b783-f0038ec29fe3.png)
 ![image](https://user-images.githubusercontent.com/63996033/199075048-4644725f-ef6a-4f91-8dfb-e07c9ae1d5e7.png)
 
