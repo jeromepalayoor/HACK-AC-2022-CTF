@@ -14,7 +14,8 @@ Recently, I've been working on an Extended Carrot Conjecture that will finally s
 I just need someone to help me prove it. 
 Believe it or not, I have managed to model the carrot mystery as an Elliptic Curve with the formula as shown in the attachment.
 
-All you need to do is calculate the private key, and use it as a key to decrypt the following ciphertext encoded in AES (ECB Mode): 8409b13eb773b3fa396799b35541e923f793f9c694e7d089354c6c04f3b1921e99ed5e803b2b81dac64d099b517d88666a2bec925df6483b17eb0be0f05958c4
+All you need to do is calculate the private key, and use it as a key to decrypt the following ciphertext encoded in AES (ECB Mode): 
+8409b13eb773b3fa396799b35541e923f793f9c694e7d089354c6c04f3b1921e99ed5e803b2b81dac64d099b517d88666a2bec925df6483b17eb0be0f05958c4
 This will provide you with a flag to prove to me that you've cracked the code. Go forth, and solve this mystery.
 
 Author: Bennett
