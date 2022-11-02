@@ -11,7 +11,7 @@ nc beta.8059blank.ml 7001
 Author: Lucas
 ```
 
-Given hint: __import__ is a very cool builtin btw
+Given hint: \_\_import__ is a very cool builtin btw
 
 Given file: [emacs.py](https://github.com/Coder-Here/HACK-AC-2022-CTF/blob/main/Misc/Church%20of%20Emacs/emacs.py "emacs.py")
 
