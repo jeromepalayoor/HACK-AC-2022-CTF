@@ -1,4 +1,4 @@
-The Reverse Engineering challenges for HACK@AC CTF 2022.
+The Reverse Engineering challenges for HACK@AC CTF 2022
 ***
 
 [Ancient Ape](https://github.com/Coder-Here/HACK-AC-2022-CTF/tree/main/RE/Ancient%20Ape "Ancient Ape")
