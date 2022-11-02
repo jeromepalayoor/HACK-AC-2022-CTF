@@ -202,3 +202,7 @@ I finished 4th in the interschool category and an overall 6th place. Could have 
 ![image](https://user-images.githubusercontent.com/63996033/199588199-06dc4d25-cf3e-4ae2-a20b-a118583ac3c0.png)
 
 ![image](https://user-images.githubusercontent.com/63996033/199588412-897741c2-38a8-44c3-a60e-f4908d317c16.png)
+
+Note to self: Wake up earlier!
+
+![image](https://user-images.githubusercontent.com/63996033/199589660-a92df77f-69ee-4925-ad60-882610bad29b.png)
