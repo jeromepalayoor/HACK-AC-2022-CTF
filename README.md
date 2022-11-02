@@ -1,4 +1,4 @@
-# A write up for the HACK@AC CTF 2022 by Jerome Palayoor
+# Write up for the HACK@AC CTF 2022 by Jerome Palayoor
 ***
 
 ### By category
