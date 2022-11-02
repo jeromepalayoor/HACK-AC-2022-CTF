@@ -7,4 +7,4 @@ We took a picture of one of these devices, and managed to record it receiving so
 Help us decode the message!
 ```
 
-Given files: [capture.sal]( "capture.sal") [hw.jpeg]( "hw.jpeg") [src.c]( "src.c")
+Given files: [capture.sal](https://github.com/Coder-Here/HACK-AC-2022-CTF/blob/main/Misc/BXZMS/capture.sal "capture.sal") [hw.jpeg](https://github.com/Coder-Here/HACK-AC-2022-CTF/blob/main/Misc/BXZMS/hw.jpeg "hw.jpeg") [src.c](https://github.com/Coder-Here/HACK-AC-2022-CTF/blob/main/Misc/BXZMS/src.c "src.c")
