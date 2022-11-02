@@ -38,9 +38,9 @@ This is similar to the Church of Emacs challenge, but \_\_builtins__ cannot be u
 
 Some websites that helped me:
 
-https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html
+[Explanation on how to use eval() vulnerability](https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html)
 
-https://blog.p6.is/Python-SSTI-exploitable-classes/
+[Explanation on how to use os.\_wrap_close exploit](https://blog.p6.is/Python-SSTI-exploitable-classes/#Using-os-wrap-close)
 
 My main payload was this:
 
