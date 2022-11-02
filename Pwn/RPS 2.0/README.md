@@ -11,3 +11,6 @@ Author: Lucas
 ```
 
 Given files: [rglddwapswthssf.jpg](https://github.com/Coder-Here/HACK-AC-2022-CTF/blob/main/Pwn/RPS%202.0/rglddwapswthssf.jpg "rglddwapswthssf.jpg") [rps2](https://github.com/Coder-Here/HACK-AC-2022-CTF/blob/main/Pwn/RPS%202.0/rps2 "rps2") [rps2.c](https://github.com/Coder-Here/HACK-AC-2022-CTF/blob/main/Pwn/RPS%202.0/rps2.c "rps2.c")
+
+
+Flag: ACSI{sp0nge_b3ats_gun_a46h01}
