@@ -15,3 +15,6 @@ Author: Samuel
 [Google Drive mirror](https://drive.google.com/file/d/1HROOKAiCD28vOBNReP7EE-Shmn96UCO7/view?usp=sharing)
 
 Given hint: A clue revolves around safari, but you will need a parser.
+
+
+Flag: ACSI{i05_tri4ge_4_lif3}
