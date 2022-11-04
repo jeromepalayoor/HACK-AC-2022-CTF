@@ -9,3 +9,6 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ```
 
 Given files: [imitation](https://github.com/Coder-Here/HACK-AC-2022-CTF/blob/main/RE/Imitation/imitation "imitation")
+
+
+Flag: ACSI{al4n-@Nd_cHr1st0Ph3R}
