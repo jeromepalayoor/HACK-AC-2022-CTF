@@ -13,7 +13,7 @@ Author: Samuel
 
 [Google drive mirror](https://drive.google.com/file/d/1Z0m-83Cmt2eY0Zh_XoiTIDWXycDjBx2k/view?usp=sharing)
 
-After downloading the file, I immediately checked for any possible strings I could find by using ~~notepad~~ HxD editor (the file is too big for notepad to read but is fine in HxD editor.
+After downloading the file, I immediately checked for any possible strings I could find by using ~~notepad~~ HxD editor (the file is too big for notepad to read but is fine in HxD editor).
 
 ![image](https://user-images.githubusercontent.com/63996033/199073929-de0da600-6120-4fec-9887-747fc9bfe3d5.png)
 
