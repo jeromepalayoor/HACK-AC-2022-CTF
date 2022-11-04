@@ -18,3 +18,5 @@ Author: Lucas
 Given files: [formatstring](https://github.com/Coder-Here/HACK-AC-2022-CTF/blob/main/Pwn/Format%20String/formatstring "formatstring") [formatstring.c](https://github.com/Coder-Here/HACK-AC-2022-CTF/blob/main/Pwn/Format%20String/formatstring.c "formatstring.c")
 
 Given hints: Your payload will look like this: b'A'*264 + canary + b'A'*8 + ret gadget + win func
+
+Flag: ACSI{h0p3_u_l1k3_1t_uwu_owo}
