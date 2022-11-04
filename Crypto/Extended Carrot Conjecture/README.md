@@ -22,3 +22,5 @@ Author: Bennett
 ```
 
 Given files: [carrot.txt](https://github.com/Coder-Here/HACK-AC-2022-CTF/blob/main/Crypto/Extended%20Carrot%20Conjecture/carrot.txt "carrot.txt")
+
+Flag: ACSI{gg_th4nk5_f0r_s0lv1ng_my_c0nj3cture_h3re_is_y0ur_fl4g}
