@@ -16,3 +16,6 @@ Author: Bennett
 ```
 
 Given files: [xor2](https://github.com/Coder-Here/HACK-AC-2022-CTF/blob/main/Crypto/XORinator%202/xor2 "xor2")
+
+
+Flag: ACSI{sliding_wind0w_techniqu3_is_extr3m3ly_OP!!!}
