@@ -15,6 +15,10 @@ Given hint: \_\_import__ is a very cool builtin btw
 
 Given file: [emacs.py](https://github.com/Coder-Here/HACK-AC-2022-CTF/blob/main/Misc/Church%20of%20Emacs/emacs.py "emacs.py")
 
+![image](https://user-images.githubusercontent.com/63996033/199922445-52bc1848-d6d3-4a51-9f91-cbb15bfc45d2.png)
+
+I was the first one to solve this yay!
+
 It suggests that we use [\_\_import__ exploit using eval() function vulnerability](https://stackoverflow.com/questions/59519289/python-running-reverse-shell-inside-eval) which can be done. 
 
 emacs.py:
