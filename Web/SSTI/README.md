@@ -25,7 +25,7 @@ In the textbox, we need to use a payload inside of {{}}. The one we will try is 
 ![image](https://user-images.githubusercontent.com/63996033/197451069-92075e43-9f1a-4d64-b67d-7aa661192f56.png)
 ![image](https://user-images.githubusercontent.com/63996033/197451084-9b8605ff-08f6-4515-9deb-4ad93b51a3ba.png)
 
-We are now able to access the class objects. We will add '[1].__subclasses__()' at the end of the payload to access the subclasses which allows us to get the shell commands.
+We are now able to access the class objects. We will add `[1].__subclasses__()` at the end of the payload to access the subclasses which allows us to get the shell commands.
 
 ![image](https://user-images.githubusercontent.com/63996033/197451331-0034c595-acfc-45a6-a30c-f83e7fd5bee4.png)
 ![image](https://user-images.githubusercontent.com/63996033/197451345-a136effb-a90a-46b4-b37a-c17ac9bf3199.png)
